@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="" label="github" language="en" table="x_429236_github_in_github">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>github</label>
+            <language>en</language>
+            <name>x_429236_github_in_github</name>
+            <plural>githubs</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-01-06 06:05:05</sys_created_on>
+            <sys_id>7455a66fdb0200100403c4ab0b9619cf</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>github</sys_name>
+            <sys_package display_value="Github Integration with ServiceNow" source="x_429236_github_in">463d1a27db0200100403c4ab0b9619da</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Github Integration with ServiceNow">463d1a27db0200100403c4ab0b9619da</sys_scope>
+            <sys_update_name>sys_documentation_x_429236_github_in_github__en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-01-06 06:05:05</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
